@@ -1,0 +1,203 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDO-MIX
+https://stream-52.zeno.fm/zs1ynrtnsuhvv?
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s165652/images/logog.jpg?t=155085"group-title="",Radio Antena2000
+https://cloudstream2030.conectarhosting.com/8170/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/54ywlwa3e4nw.jpg"group-title="",Correo del Sur
+https://whsh4u-panel.com/proxy/gddupgij?mp=/stream
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f5e9207363f244f0b3d4d56ad2a80d28~mv2.png"group-title="",Radio Encuentro Sucre
+https://ares.disfrutaenlared.com:10865/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/qsaaemkujnzj.jpg"group-title="",Radio Global
+https://ares.disfrutaenlared.com/6048/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/4yzudua5pcjf.jpg"group-title="",Radio Aclo AM SUCRE
+https://cloudstream2030.conectarhosting.com/8192/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/4yzudua5pcjf.jpg"group-title="",Radio Aclo FM SUCRE
+https://cloudstream2030.conectarhosting.com/8228/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/5tutgtg8zysv.png"group-title="",Radio Fides Sucre
+https://usa7.fastcast4u.com/proxy/radiofid?mp=/1
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/5tutgtg8zysv.png"group-title="",Radio Fides La Paz
+https://usa7.fastcast4u.com/proxy/grflores?mp=/1
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/pSpqFu7dtH.png"group-title="",Radio Panamericana
+https://stream-28.zeno.fm/pnwpbyfambruv
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/pSpqFu7dtH.png"group-title="",PANAMERICANA1
+https://node-31.zeno.fm/5hfx7xfambruv.aac?rj-ttl=5&rj-tok=AAABe8YnvkMAEhJjFEk1549_1g
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/pSpqFu7dtH.png"group-title="",PANAMERICANA2
+https://node-31.zeno.fm/pnwpbyfambruv?rj-ttl=5&rj-tok=AAABe8YOj-wA3DdN5yvK81mD6A
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/dageehpbwarn.png"group-title="",EL DEBER
+https://services.eldeber.com.bo/live
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hzyrqgyzqvuw.png"group-title="",CNN ESPAÑOL
+https://audio.bustream.com:8032/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/yxqpascr3kgn.png"group-title="",Radio Guadalupe 105.1 FM techno
+http://radios.istbolivia.com:9304/stream
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/b1de99c4730aff46273e2456c73512a3.jpg"group-title="",Mega Djs 89.8 FM
+http://eu8.fastcast4u.com:5682/;?t=1546809059
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/apsklasgv32a.jpg"group-title="",MegaDJ Bolivia
+https://stream-13.zeno.fm/zyu31nv6twzuv?zs=bpaU-ZwzS0uWNn7-24qd5A
+#EXTINF:-1 tvg-logo=""group-title="",Red Chuquisaqueña
+http://zeus.imd.la:8050/;?t=1546813175
+#EXTINF:-1 tvg-logo=""group-title="",Radio Sucre 1320 AM
+http://radios.imd.com.bo:7791/;?t=1546727823
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mvv7jzrpcwt6.png"group-title="",CHACALTAYA
+http://stream.servionbolivia.red:9364/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/x7sd6s785sq9.jpg"group-title="",RADIO KANTUTA
+http://eu2.serviaudio.com:23128/;
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/d25fa84927dddad4a266a8c0cb2e5741.jpg"group-title="",Radio Uno
+http://radios.servidoresbolivianos.net:8020/;
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/8cfd2593cc46ad71df97c7c77ea6bd27.jpg"group-title="",RadioMega
+http://radios.istbolivia.com:7711/;
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/2d6977fdd9fe5b612f7e11bdada514e3.jpg"group-title="",FM La Paz 96.7
+https://stream.consultoradas.com:10955/stream
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/8211224f660db566cd0ba4c383245d0f.jpg"group-title="",Radio Clásica 100.3 FM
+http://radios.istbolivia.com:9976/;
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/7d3ead382f8396711572d7f0fb912861.jpg"group-title="",Radio Ciudad 91.3 FM
+https://streamingenbolivia.com/8002/stream
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/fc24f50add0f621aec3d3f86cfd9726f.jpg"group-title="",Radio Qhana 98.5 FM
+http://emiteradio.com:8017/stream
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/fd280849a63f0c28bccdaf78be717f29.jpg"group-title="",Radio Activa 91.9 FM
+http://streamserver.ml:7002/;
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/3eef3ec50f3a40e3bbf12ceeab466acc.jpg"group-title="",Red Patria Nueva
+http://51.161.84.170:8257/illimani
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/e3d7d64efc1be00b94692bd94545490f.jpg"group-title="",Radio Kollasuyo
+https://turadioweb.net/radio/8035/kolla
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/95ac608b1f9e952444a4ec4eafc5507c.jpg"group-title="",Radio Atlántica FM 88.9
+http://173.255.205.241:9090/stream/1/
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/cefcf6dc9198be070e4295cb02a9bc2b.jpg"group-title="",Radio Red Erbol 100.9 FM
+https://sc10.conectarhosting.com/proxy/erbol?mp=/stream/1/
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/fe50ef4de561312b8ade75567f7becd5.jpg"group-title="",La Mega 97.3 FM
+https://stream-56.zeno.fm/hcw5f95ugy8uv?zs=TFkMS55VS-mg5QtjTQ5eZw
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/1e307e043f0861ca26cfb3715985f9cf.jpg"group-title="",Radio Marítima FM
+http://spanel.gcomstreaming.com:8004/stream
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/9714c1a09ba2bcd9e64e26a43afa9dfb.jpg"group-title="",Radio Uno CBB
+http://radios.tecnosoul.com.ar:8000/radio1
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/3d8a3ee879b232d4ec13029de1489153.jpg"group-title="",Estelar FM 92.5
+http://62.210.24.124:8612/en vivo
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/800fd18d3e514a4fbd7793155f44e020.jpg"group-title="",Radio Camargo 100.1 FM
+https://ssl.xcast.com.br:11646/;
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/870d46cb145c74514f0422f98efe4f74.jpg"group-title="",Radio Stereo 97.3 FM
+https://stream-44.zeno.fm/y6bu5rkpmnruv?zs=cutVJgKSSAuqgERiH5sRtw
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/eed99b40f73b14cd6cf6c3ac42c21d06.jpg"group-title="",Radio Oxigeno
+https://us-b4-pe-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c?aid=5faaeb72f92d7b07dfe10181&pid=pZdplzSaniFRqJzf4UFHP0CWkUnsQwEP&sid=dtNDE9ca7iizKoCZnc5tSAMyX5H3fUGX&uid=neQR50PWPXQkEecY1iIqp5IRnWnW7Lmj&es=us-b4-pe-pb13-audio.cdn. mdstrm.com&ote=1663725783543&ot=JMHXX_H2gh3R83LyuHwHnw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab0687bcd6c2389ee9480c&referer%2%perFanasFanas.com
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/syvqf4tpmqhn.png"group-title="",The Mix Radio 80s
+http://51.255.127.128:8007/80saac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/9Ywrd8TChB.png"group-title="",Radio Mix Trance Electro
+https://stream-38.zeno.fm/5h0autw6y98uv?zs=IrK86lXdRfSTFZxMTRdIgw
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/8Kz23zJEKE.png"group-title="",1.FM - Amsterdam Trance
+http://strm112.1.fm/atr_mobile_mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/aWa7xGKfBh.jpg"group-title="",House Nation UK
+http://radio.housenationuk.com:9000/;
+#EXTINF:-1 tvg-logo=""group-title="",Full Techno CLASIC
+http://184.154.28.210:7150/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/n7gdnuywj2qp.png"group-title="",TechnoFM
+https://stream.techno.fm/radio1-192k.mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/BhJDUBZnYe.png"group-title="",Radio Mix Reguetón Latino
+https://stream-16.zeno.fm/wx6uuv7y14zuv
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/nxdvpkhpxxnp.jpg"group-title="",100% Reggaeton Radio
+https://stream-34.zeno.fm/8wup8yd9dm0uv
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xt4trywrsuqy.png"group-title="",Radio Mix Bolivia
+https://stream-44.zeno.fm/7kntayvr1f8uv?zs=gRraQaKlTJWR4KW-sEsHdw
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5VcnQuh7zr.png"group-title="",Radio Mix Cumbias
+https://stream-22.zeno.fm/52khku4yd5zuv?zs=s1OHR_5YSjaJBiDAyB5e1A
+#EXTINF:-1 tvg-logo=""group-title="",ONDA SUREÑA PE
+https://sonicpanel.streaming10.net/7040/stream
+#EXTINF:-1 tvg-logo=""group-title="",RADIO FIESTA SUR
+https://sonic.dattassd.com:10938/;
+#EXTINF:-1 tvg-logo=""group-title="",TENTACION SUREÑA
+https://node-09.zeno.fm/18sb67xyqzzuv
+#EXTINF:-1 tvg-logo=""group-title="",CUMBIA A PLENO
+https://node-17.zeno.fm/1n6w364parzuv
+#EXTINF:-1 tvg-logo=""group-title="",CLAVE VILLERO
+https://buecrplb01.cienradios.com.ar/779_Cumbia_32000.aac
+#EXTINF:-1 tvg-logo=""group-title="",CUMBIA YA
+https://node-20.zeno.fm/we1pq30umd0uv
+#EXTINF:-1 tvg-logo=""group-title="",CUMBIA VILLERA
+https://node-01.zeno.fm/tp2vw2u1krruv
+#EXTINF:-1 tvg-logo=""group-title="",RADIO CUMBIA MIX
+https://streaming.gometri.com/stream/8017/stream
+#EXTINF:-1 tvg-logo=""group-title="",CUMBIA MIX
+https://node-23.zeno.fm/xpe0b2f42mzuv
+#EXTINF:-1 tvg-logo=""group-title="",RADIO LATINA
+https://buecrplb01.cienradios.com.ar/689_Latina_32000.aac
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/2d958b4be445570138e6ad1dd65a97b0.jpg"group-title="",Ritmo Romantica 93.1 FM
+https://25083.live.streamtheworld.com/CRP_RIT.mp3
+#EXTINF:-1 tvg-logo=""group-title="",RADIO ROMANTICA
+https://buecrplb01.cienradios.com.ar/1081_Romantica_32000.aac
+#EXTINF:-1 tvg-logo=""group-title="",ROMANTICA 2000
+https://buecrplb01.cienradios.com.ar/766_Romantica_2000_32000.aac
+#EXTINF:-1 tvg-logo=""group-title="",ROMANTICA 90
+https://buecrplb01.cienradios.com.ar/593_Romantica_90_32000.aac
+#EXTINF:-1 tvg-logo=""group-title="",RADIO MAGO MIX
+https://node-31.zeno.fm/nwzerpfbs8quv
+#EXTINF:-1 tvg-logo=""group-title="",RADIO SILVER MIX
+https://sonic1.transmissaodigital.com:7058/;
+#EXTINF:-1 tvg-logo=""group-title="",RADIO LA BRUJA
+https://node-25.zeno.fm/4bm88fecs7zuv
+#EXTINF:-1 tvg-logo=""group-title="",CUMBIA 90s BOLIVIA
+http://emiteradio.com:8223/stream
+#EXTINF:-1 tvg-logo=""group-title="",CUMBIA PARA RECORDAR
+https://node-02.zeno.fm/d4gm2mcym18uv
+#EXTINF:-1 tvg-logo=""group-title="",CUMBIA QUE NOS GUSTA
+https://node-28.zeno.fm/1276g6drneruv
+#EXTINF:-1 tvg-logo="https://www.xn--sureaestereo-dhb.co/images/logo.png"group-title="",Sureña Estereo
+https://streaming.radiosenlinea.com.ar/8308/stream;
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/25feb8ee208a1cd03d4dc4f4b63e4d48.jpg"group-title="",La Kalle 95.5 FM
+https://7.innovatestream.pe:2020/stream/lakalleoficial/stream
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/810770102a33f8fa9270a04413e9f963.jpg"group-title="",Radio Turbo Mix 92.5 FM
+http://167.114.118.120:7624/;
+#EXTINF:-1 tvg-logo="https://www.xn--radiolasurea-khb.com/wp-content/uploads/2021/08/Portada-Album-Radio-Surena.png"group-title="",Radio Sureña
+https://cloudstream.oppublicidad.com/8012/stream
+#EXTINF:-1 tvg-logo=""group-title="",PERU CUMBIA RADIO
+http://184.154.28.210:7130/stream/1/
+#EXTINF:-1 tvg-logo=""group-title="",MAXIMA CUMBIA CL
+https://node-09.zeno.fm/5me4hg77568uv
+#EXTINF:-1 tvg-logo=""group-title="",PLANETA CUMBIA
+https://node-24.zeno.fm/60pqgs97f2zuv
+#EXTINF:-1 tvg-logo=""group-title="",CUMBIAS DE COLECCION
+https://node-15.zeno.fm/qysucps4f3quv
+#EXTINF:-1 tvg-logo=""group-title="",RADIO ACLO
+http://212.83.172.247:8072/stream/1/
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/6ssgtmexcjtb.png"group-title="",RADIO DISNEY POP
+http://144.217.67.108:9156/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/un5nrzhv2kff.png"group-title="",esLatino Radio
+http://stm11.streaming.profesional.bo:11296/;stream.mp3&type=mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/2k8hx3fntztb.png"group-title="",RQP
+https://d3g7mrw8svrpar.cloudfront.net/rqp.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",Inthemix Radio
+http://01.solumedia.com.ar:8230/stream?icy=http
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/b2NDNZ4KSx.png"group-title="",100Hitz - Hot Hitz
+http://gr02.cdnstream.com:8290/
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YLt55MjXBD.jpg"group-title="",Today's Hits
+https://26283.live.streamtheworld.com/977_HITS_SC
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/by9rcegw4mrd.png"group-title="",Totally Radio Hits
+https://21423.live.streamtheworld.com/T_RAD_HITS_S01_SC
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hveq3etzdt3q.png"group-title="",LUNA FM
+http://lunaworld.lunabroadcasting.net/stream?ver=96178
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ydthqx5dvp7h.png"group-title="",Beam FM
+http://shoutcast.beamfm.net:8504/;
+#EXTINF:-1 tvg-logo=""group-title="",FM Top 104.9
+http://62.210.129.76:7940/;?t=1546815480
+#EXTINF:-1 tvg-logo=""group-title="",FM Eclipse
+http://198.50.206.239:8006/;?t=1546817068
+#EXTINF:-1 tvg-logo=""group-title="",Radio Festiva
+http://s6.jcwebnew.com:8070/stream?t=1546818258
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hddjj2stcqhr.png"group-title="",BBN Spanish
+https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e61c6446eb0c403397509c94bb225d18~mv2.png"group-title="",RadioHF
+https://stream-47.zeno.fm/ufpfss4aguhvv?
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/1216bca5ecbbcfa8b7ce545bc90454c9.jpg"group-title="",Radio Nuevo Tiempo
+https://cloudstream2030.conectarhosting.com:10871/stream
+#EXTINF:-1 tvg-logo=""group-title="",CVC La voz Cristian
+http://108.170.61.114:8240/;stream.nsv
+#EXTINF:-1 tvg-logo=""group-title="",Bethel Radio
+http://96.31.83.86:8158/stream
+#EXTINF:-1 tvg-logo=""group-title="",Radio Betania 93.7
+http://icecast.radiobetania.com:8000/betania.mp3?t=1546727627
+#EXTINF:-1 tvg-logo=""group-title="",Cristo Viene COCHABAMBA
+http://usa1.usastreams.com:8000/cbtsrl?t=1546728157
+#EXTINF:-1 tvg-logo=""group-title="",El Sonido de la VIDA 89.3
+http://server.streambolivia.com:9890/;?t=1546809597
+#EXTINF:-1 tvg-logo=""group-title="",Bendita trinidad 1540 AM
+http://195.154.182.222:25107/live?t=1546811669
+#EXTINF:-1 tvg-logo=""group-title="",La Cruz del Sur ORURO
+http://stm4.srvstm.com:23490/;?t=15468127537
