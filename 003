@@ -1,57 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yYWbZBc/adn.jpg" tvg-group="CHILE", ADN CHILE
-https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wtr57WC/tvperu-digital.jpg" tvg-group="PERU", ATV PERU
-https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jTpWsm6/tennis.jpg" tvg-group="DEPORTES", CANAL DE TENIS
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WVKT7RP/clarosp.jpg" tvg-group="DEPORTES", CLARO SPORTS
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" tvg-group="DEPORTES", FOX SPORTS 2 MX
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9wf6FXv/ar-fox-sports-3-m.png" tvg-group="DEPORTES", FOX SPORTS 3 MX
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg" tvg-group="DEPORTES", TIGO DEPORTES COSTA RICA
-https://api55.tvgratis.live/streams3/tigocr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FbPQkKX/1200px-Panamericana-tv-svg.png" tvg-group="PERU", PANAMERICANA
-http://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBVVr72/tvperu.png" tvg-group="PERÚ", TV PERÚ
-http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tbhgmz4/UCL.png" tvg-group="URUGUAY", UCL
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dtsrSwX/chilevision.jpg" tvg-group="CHILE", CHILEVISION
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceDGENT%=0&device&TARGELon=0&device%TTARDEvice%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_a pp_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d50WWDf/telemax.png" tvg-group="ARGENTINA", TELEMAX
-https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SsNPsnR/adn-40-m.png" tvg-group="MÉXICO", ADN40
-http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcBYmdk/multimedios.png" tvg-group="MEXICO", MULTIMEDIOS
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr5VJq9/telemax.png" tvg-group="MÉXICO", TELEMAX
-http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vXQfhcQ/canal2.jpg" tvg-group="COLOMBIA", CANAL 2
-https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVn2cbh/telepacifico.png" tvg-group="COLOMBIA", TELEPACIFICO
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8r7QVvQ/trece.jpg" tvg-group="COLOMBIA", TRECE COLOMBIA
-https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDO-MIX
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-sports-chile-logo-B6EA5EA7BC-seeklogo.com.png"group-title="",TNT SPORTS
-http://slp1.noxity.online:8081/DEP/tnt_sports_222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDIyIDI6MTk6NDMgUE0maGFzaF92YWx1ZT1lNGtPejUvb1FJekhVL2VpQjAvV2JnPT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-sports-chile-logo-B6EA5EA7BC-seeklogo.com.png"group-title="",TNT SPORTS 2
-http://slp1.noxity.online:8081/DEP/tnt_sports_222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDg6NTk6MDQgUE0maGFzaF92YWx1ZT1SMTZPNXRETDBsbjR0c1lDZkU0QTlRPT0mdmFsaWRtaW51dGVzPTIyMA==1
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="",Directv Sports Plus
-http://slp1.noxity.online:8081/ssl/dtv+9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDIyIDI6MjI6MjAgUE0maGFzaF92YWx1ZT1JZlFCWUxHM0FjN25zVkp3SnhqQnNnPT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="",Directv Sports2
-http://slp1.noxity.online:8081/ssl/dtv29874/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDIyIDI6MjE6MDQgUE0maGFzaF92YWx1ZT11TjBEb3RlVG1QTlI3aHd6R0t4ejZBPT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="",FOX SPORTS
-http://slp1.noxity.online:8081/DEP/fo_sp_mx546546/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDIyIDI6MjQ6MTAgUE0maGFzaF92YWx1ZT1DVjJ3anQxTGdFM2ZTODJ0STBDS3VRPT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="",FOX SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png"group-title="",FOX SPORTS 2
 http://190.92.25.115:8000/play/a0ab/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="",FOX SPORTS 3
-http://slp1.noxity.online:8081/DEP/fox_sp_3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDIyIDI6MjU6MTEgUE0maGFzaF92YWx1ZT1lNVRwZCtja1N2U2k0T1BacXQ1dHJ3PT0mdmFsaWRtaW51dGVzPTIyMA==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" tvg-group="DEPORTES",FOX SPORTS 2 MX
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9wf6FXv/ar-fox-sports-3-m.png" tvg-group="DEPORTES",FOX SPORTS 3 MX
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f301fd5f4d4e42719b8528caafc254e5~mv2.png"group-title="",FOX SPORTS PREMIUM
 http://one.osito.monster:8081/oobs/foxpremiumX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3b3941fa5dd5439ca36d0e1563cdcfb5~mv2.png"group-title="",TyC SPORTS
@@ -62,11 +17,17 @@ http://one.osito.monster:8081/oracle/Xespn1/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 http://one.osito.monster:8081/obs/espnextraX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_99983b48130d421e8130f11dc38748e3~mv2.png"group-title=",ESPN EXTRA2
 http://45.5.119.202:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wtr57WC/tvperu-digital.jpg" tvg-group="PERU", ATV PERU
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg" tvg-group="DEPORTES", TIGO DEPORTES COSTA RICA
+https://api55.tvgratis.live/streams3/tigocr.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/87ba40/vix-/450_1000.jpeg"group-title="",VIX LIGA MX
 https://linear-193.frequency.stream/193/hls/master/playlist_1280x720.m3u8
 http://45.5.119.202:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png"group-title="",TUDN
 http://54.39.19.162:8081/live/dream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVKT7RP/clarosp.jpg" tvg-group="DEPORTES", CLARO SPORTS
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5c57e568a44842289c5aeb4855c57d36~mv2.png"group-title="",CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 #EXTINF:-1 tvg-logo="https://tuneliveradio.net/wp-content/uploads/2021/11/beIN-SPORTS-XTRA-en-Espanol-200x200.png"group-title="",BEIN SPORTS EXTRA Ñ1
@@ -93,6 +54,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://eleven-rebroadcast-samsung.plex.wurl.com/manifest/893245ab3a53ef5d71e22b8e493ba3f2.m3u8
 #EXTINF:-1 tvg-logo="https://television-planet.tv/uploads/posts/rtxgetg44tt3545tplanet-television.png"group-title="",ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jTpWsm6/tennis.jpg" tvg-group="DEPORTES", CANAL DE TENIS
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportstv.com.tr/assets/images/template/sportstv-live.png"group-title="",SPORT TV TURK
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://television-planet.tv/uploads/posts/56cnh5hetherherplanet-television.png"group-title="",Arryadia TV H+
@@ -100,9 +63,9 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriad
 
 NACIONALES
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel HD
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZedqpHmcCL3h22MUPet7eAm9aOyu9KG8fX33uFEAIW4)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl--Ai9a7cn0T3cbyxJpWHUB3OpzSvrHWn5mWKSAuemHl)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLmnnjc0WFGYCNfPr98ze8I8sGso8PwyI2Odm8upBBFff)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpRpDx2l7I1Eg1lRgwzQwfj9-nEYXdJg9b4B6bqvY-Uf)/dm/3/x825whp/d/live-3.m3u8#cell=lsv4
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision UPPTV
