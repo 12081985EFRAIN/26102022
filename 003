@@ -3,6 +3,8 @@
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDO-MIX
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
+#EXTINF:-1 tvg-logo="https://grupocity.net.ar/wp-content/uploads/2022/10/captura2.png"group-title="",Ciudad Mágica Radio
+https://sonidosenlared.fullstreaming.ar/8002/stream
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s165652/images/logog.jpg?t=155085"group-title="",Radio Antena2000
 https://cloudstream2030.conectarhosting.com/8170/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/54ywlwa3e4nw.jpg"group-title="",Correo del Sur
@@ -41,6 +43,8 @@ http://radios.istbolivia.com:9304/stream
 https://stream-13.zeno.fm/zyu31nv6twzuv?zs=bpaU-ZwzS0uWNn7-24qd5A
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/x7sd6s785sq9.jpg"group-title="",RADIO KANTUTA
 http://eu2.serviaudio.com:23128/;
+#EXTINF:-1 tvg-logo="https://tropicaltarija.com/images/creativ/logo/logo.png"group-title="",RADIO TROPICAL TARIJA
+https://stream.rcast.net/63337
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xt4trywrsuqy.png"group-title="",Radio Mix Bolivia
 https://stream-44.zeno.fm/7kntayvr1f8uv?zs=gRraQaKlTJWR4KW-sEsHdw
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5VcnQuh7zr.png"group-title="",Radio Mix Cumbias
@@ -53,7 +57,7 @@ https://sonic1.transmissaodigital.com:7058/;
 https://node-31.zeno.fm/nwzerpfbs8quv
 #EXTINF:-1 tvg-logo=""group-title="",MAXIMA CUMBIA CL
 https://node-09.zeno.fm/5me4hg77568uv
-#EXTINF:-1 tvg-logo=""group-title="",CUMBIA 90s BOLIVIA
+#EXTINF:-1 tvg-logo="https://tropical90.emisora.info/fotos/logo.jpg"group-title="",CUMBIA 90s BOLIVIA
 http://emiteradio.com:8223/stream
 #EXTINF:-1 tvg-logo=""group-title="",CUMBIA PARA RECORDAR
 https://node-02.zeno.fm/d4gm2mcym18uv
@@ -81,13 +85,17 @@ https://stream-16.zeno.fm/wx6uuv7y14zuv
 https://stream-34.zeno.fm/8wup8yd9dm0uv
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/810770102a33f8fa9270a04413e9f963.jpg"group-title="",Radio Turbo Mix 92.5 FM
 http://167.114.118.120:7624/;
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/rUHFEVqaJU.png"group-title="",SUREÑA RADIO&TELEVISION1
+https://stream-60.zeno.fm/p7d5fpx4xnhvv?zs=Do9cJRW7RICI5btvRiQ0ew
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/rUHFEVqaJU.png"group-title="",SUREÑA RADIO&TELEVISION2
+https://stream-63.zeno.fm/p7d5fpx4xnhvv?zs=hvVwzGBrSmm38VpgkPlZgQ
 #EXTINF:-1 tvg-logo="https://www.xn--radiolasurea-khb.com/wp-content/uploads/2021/08/Portada-Album-Radio-Surena.png"group-title="",Radio Sureña
 https://cloudstream2.oppublicidad.com/8038/stream
-#EXTINF:-1 tvg-logo=""group-title="",ONDA SUREÑA PE
-https://sonicpanel.streaming10.net/7040/stream
-#EXTINF:-1 tvg-logo=""group-title="",PERU CUMBIA RADIO
-http://184.154.28.210:7130/stream/1/
-#EXTINF:-1 tvg-logo=""group-title="",TENTACION SUREÑA
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/na29.png"group-title="",Radio La Sureña
+https://stream-59.zeno.fm/acmyk8cronmuv?zs=B6ZtuldNSBOaTIqKv8BNuw
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/pr_com44.png"group-title="",Radio La Sureña
+https://host3.audiolatam.com:7042/;
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/tentacion_x1x1x4x4.png"group-title="",TENTACION SUREÑA
 https://node-09.zeno.fm/18sb67xyqzzuv
 #EXTINF:-1 tvg-logo="https://www.xn--sureaestereo-dhb.co/images/logo.png"group-title="",Sureña Estereo
 https://streaming.radiosenlinea.com.ar/8308/stream;
@@ -111,6 +119,8 @@ http://radios.tecnosoul.com.ar:8000/radio1
 https://ssl.xcast.com.br:11646/;
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/870d46cb145c74514f0422f98efe4f74.jpg"group-title="",Radio Stereo 97.3 FM
 https://stream-44.zeno.fm/y6bu5rkpmnruv?zs=cutVJgKSSAuqgERiH5sRtw
+#EXTINF:-1  tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2017/01/ic_launcher-playstore-370x370.png"group-title="",INFINITA RADIO HD
+https://cloudstream2032.conectarhosting.com/9586/;
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/2d958b4be445570138e6ad1dd65a97b0.jpg"group-title="",Ritmo Romantica 93.1 FM
 https://25083.live.streamtheworld.com/CRP_RIT.mp3
 #EXTINF:-1 tvg-logo=""group-title="",RADIO ROMANTICA
